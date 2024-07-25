@@ -334,6 +334,11 @@ section#hero {
    #clock {
       left: 5%;
    }
+
+   .loader-2 {
+      background: url(./assets/images/Hero2.jpg) no-repeat 50% 50%;
+      background-size: cover;
+   }
 }
 
 @media (max-width: 576px) {
@@ -341,4 +346,6 @@ section#hero {
       left: 2rem;
       width: unset;
    }
+
+   
 }
