@@ -64,5 +64,5 @@ anime.timeline({ loop: false })
       clipPath: "polygon(0% 0%, 100% 0%, 100% 0%, 0% 0%)",
       ease: "power4.inOut",
       duration: 1.5,
-      delay: 3.5
+      delay: 5.5
    })
